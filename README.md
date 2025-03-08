@@ -1,45 +1,44 @@
-****************************************************************************
-                         Construction Raccoon Bros
-                         Wait, who's the other guy?
-****************************************************************************
+# 🌈 Project Setup Instructions 🎮
 
-----------------------------------------------------------------------------
-                                   STORY
-----------------------------------------------------------------------------
+Hello, awesome coder! Ready to embark on an epic coding adventure? 🚀 Let's get your spaceship (aka development environment) ready for launch. Follow these super cool steps to download GitHub Desktop and clone our amazing project repository. 🌟
 
-One day, the construction raccoon 'Bob' had to save the day by finding 15
-stars across 3 construction sites. There isn't very much else to it.
+## Step 1: Install GitHub Desktop 🖥️
 
-----------------------------------------------------------------------------
-                                HOW TO PLAY
-----------------------------------------------------------------------------
+First things first, we need to gear up with the right tools. GitHub Desktop is like your digital backpack 🎒 where you'll store all your coding treasures. Let's grab it!
 
-Use the arrow keys to move, and press space to jump. Collect stars by
-bumping into them. Collect all the stars in a level to win!
+1. Head over to the [GitHub Desktop download page](https://desktop.github.com/) 🌐.
+2. Choose the version that matches your operating system (Windows or Mac) and hit that download button! 💾
+3. Once the download is complete, open the installer and follow the magical on-screen instructions 🧙‍♂️ to finish setting up.
 
-There aren't any enemies or obstacles, but some platforms move.
+## Step 2: Clone the Repository 📁
 
-After World 1-3, the game loops.
+Now that you've got your backpack, it's time to fill it with the project files. These files are like the map 🗺️ and tools 🔨 you'll need for your coding adventure.
 
-----------------------------------------------------------------------------
-                               AUTHOR'S NOTE
-----------------------------------------------------------------------------
+1. Open GitHub Desktop. It's like opening the door 🚪 to a world of code!
+2. If you haven't already, sign in to your GitHub account. Enter the realm of coders with your secret passphrase (password) 🔐.
+3. Click on `File` in the menu bar, then select `Clone Repository` 🌱.
+4. In the Clone Repository dialog, tap the `URL` tab to tell GitHub Desktop where to find our treasure chest.
+5. Enter the URL of our project: `https://github.com/PhillyCoderDojo/Unity.git` 🏴‍☠️.
+6. Choose a special spot on your computer where you want to keep this treasure. This is where the files will live 🏠.
+7. Make sure the `main` branch is selected. This is like choosing the main path 🛤️ on our adventure map.
+8. Click the `Clone` button to start the magic. The files will magically appear in the spot you chose!
 
-By this point you can probably tell this whole game is a love letter to
-SM64. I got the inspiration for this game when I was still playing SM64,
-when I was at the final level. I tried to beat the final stage for months
-before I just lost motivation. I'll get back to it someday.
+## Step 3: Switch to the Correct Branch 🔄
 
-There would've also been this recurring cat NPC that would've acted as "Mr.
-Exposition." At the start of each level, you could talk to him and he'd give
-a little bit of info about the level and then start the timer. But the timer
-starting function was a little wonky, so he got cut, and I just put all the
-story stuff in here.
+If you find yourself on the wrong path, don't worry! You can easily switch to the `main` branch, our main adventure route.
 
-There's also a rat NPC, he would give you a speed bubble but I can't
-remember if I cut that or not. If I didn't, please don't take the speed
-bubble. It just makes the game harder.
+1. In GitHub Desktop, make sure our project is the chosen one ✨.
+2. Click on the current branch name at the top. This is like checking your current location on the map 🗺️.
+3. In the drop-down menu, find and select the `main` branch. This is like choosing the right path in a magical forest 🌳.
 
-NOTE: Please check out my new game Mount Bop! I spent a lot of time on it.
+## 🚀 Next Steps
 
-https://scratch.mit.edu/projects/1104333583/
+Woohoo! You've successfully set up your coding adventure base. Now, you're ready to explore, create, and make magic happen in the world of code. Remember, every great coder commits their changes and shares them with the world. So, regularly commit your amazing work and push it to GitHub 🌍.
+
+## 🛠️ Troubleshooting
+
+Stuck in a sticky situation? Don't fret! The [GitHub Desktop documentation](https://docs.github.com/en/desktop) is like a guidebook 📚 filled with tips and tricks. Or, you can send a signal flare 🚨 to our project's support team for help.
+
+---
+
+🌈 We hope these instructions make your setup process fun and easy. Dive in and let your coding journey begin! Happy coding, young explorer! 🎉👩‍💻👨‍💻
