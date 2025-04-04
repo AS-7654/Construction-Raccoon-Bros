@@ -1,44 +1,46 @@
-# 🌈 Project Setup Instructions 🎮
+******************************************************************************
+CONSTRUCTION RACCOON BROS.
+(Wait, who's the other guy???)
+******************************************************************************
 
-Hello, awesome coder! Ready to embark on an epic coding adventure? 🚀 Let's get your spaceship (aka development environment) ready for launch. Follow these super cool steps to download GitHub Desktop and clone our amazing project repository. 🌟
+------------------------------------------------------------------------------
+STORY
+------------------------------------------------------------------------------
 
-## Step 1: Install GitHub Desktop 🖥️
+You play as the construction raccoon Bob. Bob needs to find 15 stars across 3
+construction sites to win. Find all 15 stars to win!
 
-First things first, we need to gear up with the right tools. GitHub Desktop is like your digital backpack 🎒 where you'll store all your coding treasures. Let's grab it!
+------------------------------------------------------------------------------
+HOW TO PLAY
+------------------------------------------------------------------------------
 
-1. Head over to the [GitHub Desktop download page](https://desktop.github.com/) 🌐.
-2. Choose the version that matches your operating system (Windows or Mac) and hit that download button! 💾
-3. Once the download is complete, open the installer and follow the magical on-screen instructions 🧙‍♂️ to finish setting up.
+Use the arrow keys to move and press space to jump. If you see a star, run
+into the star to collect it. Collect 5 stars in each level to go to the next
+level. There are 3 levels, after you beat them you can play the whole game
+again.
 
-## Step 2: Clone the Repository 📁
+------------------------------------------------------------------------------
+AFTERWORD
+------------------------------------------------------------------------------
 
-Now that you've got your backpack, it's time to fill it with the project files. These files are like the map 🗺️ and tools 🔨 you'll need for your coding adventure.
+I wanted this game to be kinda a love letter to Mario 64 and Mario as a whole.
+When I started the game I was at the basement with Dry Dry Desert and Lethal
+Lava Land. Eventually I made it to the final level Bowser in the Sky but it
+was too hard so after about a month and a half I just lost motivation. I hope
+I'll beat it someday.
 
-1. Open GitHub Desktop. It's like opening the door 🚪 to a world of code!
-2. If you haven't already, sign in to your GitHub account. Enter the realm of coders with your secret passphrase (password) 🔐.
-3. Click on `File` in the menu bar, then select `Clone Repository` 🌱.
-4. In the Clone Repository dialog, tap the `URL` tab to tell GitHub Desktop where to find our treasure chest.
-5. Enter the URL of our project: `https://github.com/PhillyCoderDojo/Unity.git` 🏴‍☠️.
-6. Choose a special spot on your computer where you want to keep this treasure. This is where the files will live 🏠.
-7. Make sure the `main` branch is selected. This is like choosing the main path 🛤️ on our adventure map.
-8. Click the `Clone` button to start the magic. The files will magically appear in the spot you chose!
+Also the game would've had a cat NPC named Carl, he would've been "Mr.
+Exposition," but I cut him for some weird reason.
 
-## Step 3: Switch to the Correct Branch 🔄
+I also have another game named Mount Bop, but you'll need to view it in the
+Turbowarp link in the description:
 
-If you find yourself on the wrong path, don't worry! You can easily switch to the `main` branch, our main adventure route.
+https://scratch.mit.edu/projects/1104333583/
 
-1. In GitHub Desktop, make sure our project is the chosen one ✨.
-2. Click on the current branch name at the top. This is like checking your current location on the map 🗺️.
-3. In the drop-down menu, find and select the `main` branch. This is like choosing the right path in a magical forest 🌳.
+I'm also thinking of making a Touhou fangame... Maybe crossing it over with
+something? It's still a shmup though, I'm probably gonna turn all the
+characters into 2hus so it isn't awkward, nobody really wants to see a guy in
+a Touhou game.
 
-## 🚀 Next Steps
-
-Woohoo! You've successfully set up your coding adventure base. Now, you're ready to explore, create, and make magic happen in the world of code. Remember, every great coder commits their changes and shares them with the world. So, regularly commit your amazing work and push it to GitHub 🌍.
-
-## 🛠️ Troubleshooting
-
-Stuck in a sticky situation? Don't fret! The [GitHub Desktop documentation](https://docs.github.com/en/desktop) is like a guidebook 📚 filled with tips and tricks. Or, you can send a signal flare 🚨 to our project's support team for help.
-
----
-
-🌈 We hope these instructions make your setup process fun and easy. Dive in and let your coding journey begin! Happy coding, young explorer! 🎉👩‍💻👨‍💻
+Sincerely,
+-Wosh
